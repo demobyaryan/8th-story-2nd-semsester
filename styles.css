@@ -1,0 +1,72 @@
+body{
+  text-align: center;
+  font-family: 'Libre Franklin', sans-serif;
+}
+h1,h2{
+  padding: 2%;
+  font-family: 'Work Sans', sans-serif;
+}
+
+h1{
+  font-size: 4rem;
+}
+
+h2{
+  font-size: 2.5rem;
+}
+
+h4{
+  font-size: 1.25rem;
+  padding: .25%;
+  font-family: 'Libre Franklin', sans-serif;
+}
+
+.header{
+  background-color: #92d5e6;
+  color: white;
+  padding: 10%;
+}
+
+.book-cover{
+  width: 50%;
+  margin: 5%;
+  text-align: center;
+  border: solid;
+  border-width: thin;
+}
+
+.footer{
+  background-color: #92d5e6;
+  padding: 1%;
+  color: white;
+}
+
+.alt-col{
+  background-color: #d3f6db;
+    padding: 1%;
+  padding: 1%;
+}
+
+.quote{
+  margin-top: 40%;
+}
+
+.img-mis-1{
+  padding: 4%;
+  width: 70%;
+}
+
+.carousel-item{
+  height: 300px;
+}
+
+.pad{
+  padding-bottom: 2%;
+}
+
+.img-mis-2{
+  width: 20%;
+  border: solid;
+  border-width: thin;
+  margin: .5%;
+}
